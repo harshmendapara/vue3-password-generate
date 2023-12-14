@@ -13,6 +13,7 @@ yarn add vue3-password-generate
 
 
 ### template
+
 <template>
   <div>
     <!-- Include the PasswordGenerator component -->
@@ -28,7 +29,7 @@ yarn add vue3-password-generate
 ```
 
 ### script
-
+```javascript
 <script>
 import { PasswordGenerator } from "vue3-password-generate";
 
