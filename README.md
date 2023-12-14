@@ -8,9 +8,9 @@ You can install the package using npm or yarn:
 
 
 ```bash
-npm install vue-internet-checker
+npm install vue3-password-generate
 # or
-yarn add vue-internet-checker
+yarn add vue3-password-generate
 ```
 
 ### Template
