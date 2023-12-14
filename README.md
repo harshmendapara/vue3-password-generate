@@ -28,6 +28,7 @@ yarn add vue3-password-generate
 ```
 
 ### script
+
 <script>
 import { PasswordGenerator } from "vue3-password-generate";
 
@@ -54,6 +55,7 @@ export default {
   },
 };
 </script>
+
 ```
 
 ## Contributing
