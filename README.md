@@ -8,12 +8,13 @@ You can install the package using npm or yarn:
 
 
 ```bash
-npm install vue3-password-generate
-yarn add vue3-password-generate
+npm install vue-internet-checker
+# or
+yarn add vue-internet-checker
+```
 
-
-### template
-
+### Template
+``` vue
 <template>
   <div>
     <!-- Include the PasswordGenerator component -->
@@ -28,7 +29,7 @@ yarn add vue3-password-generate
 </template>
 ```
 
-### script
+### Script
 ```javascript
 <script>
 import { PasswordGenerator } from "vue3-password-generate";
